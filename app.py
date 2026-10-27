@@ -569,9 +569,8 @@ st.markdown("""
 
 # Hero Section
 st.markdown("""
-<div>
+<div style="margin-bottom: 24px;">
     <h1 class="nike-hero-title">JUST DETECT IT<span class="nike-highlight">.</span></h1>
-    <div class="nike-hero-tagline">Engineered for total inbox dominance. Zero spam. Pure signal.</div>
 </div>
 """, unsafe_allow_html=True)
 
